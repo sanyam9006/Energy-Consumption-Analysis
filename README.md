@@ -1,0 +1,1 @@
+A comprehensive platform for analyzing Energy Consumption datasets. Explore global trends, perform advanced statistical analysis, and generate predictive insights to support Energy Consumption research and policy-making.
